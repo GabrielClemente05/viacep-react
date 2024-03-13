@@ -1,0 +1,47 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #4CC24B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.corpo {
+  margin-top: 1.5em;
+  background-color: #ececa8;
+  width: 600px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: #A8D0ED;
+  border-width: 1px;
+  border-radius: 3px;
+  color: black;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: rgb(140, 170, 189);
+}
+
+input {
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  padding-top: 20px;
+}
+
+.dadosapi {
+  padding-bottom: 20px  ;
+}
+
+span {
+  padding-bottom: 10x;
+}
